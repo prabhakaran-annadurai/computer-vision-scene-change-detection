@@ -1,1 +1,1 @@
-# neuralnetwork-scene-change-detection
+# NeuralNetwork-Scene-Change-Detection-Model
