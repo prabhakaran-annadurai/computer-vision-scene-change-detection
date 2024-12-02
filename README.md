@@ -1,4 +1,4 @@
-# NeuralNetwork-Scene-Change-Detection-Model
+# Scene-Change-Detection-Model
 
 **Robotic Vision Scene Understanding Challenge**
 
